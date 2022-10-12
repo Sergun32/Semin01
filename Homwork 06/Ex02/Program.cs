@@ -20,7 +20,7 @@ for(int i = 0; i< kolvo;i++)
 }
 
 int result = 0;
-for(int i = 0; i< kolvo-1; i++)
+for(int i = 0; i< kolvo; i++)
 {
     if(arrayInt[i] >  0)result++;
 }
